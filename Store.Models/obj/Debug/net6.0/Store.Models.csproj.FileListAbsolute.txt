@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\BookStore\Store.Models\bin\Debug\net6.0\Store.Models.deps.json
+C:\Users\HP\Desktop\BookStore\Store.Models\bin\Debug\net6.0\Store.Models.dll
+C:\Users\HP\Desktop\BookStore\Store.Models\bin\Debug\net6.0\Store.Models.pdb
+C:\Users\HP\Desktop\BookStore\Store.Models\obj\Debug\net6.0\Store.Models.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\BookStore\Store.Models\obj\Debug\net6.0\Store.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\BookStore\Store.Models\obj\Debug\net6.0\Store.Models.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\BookStore\Store.Models\obj\Debug\net6.0\Store.Models.AssemblyInfo.cs
+C:\Users\HP\Desktop\BookStore\Store.Models\obj\Debug\net6.0\Store.Models.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\BookStore\Store.Models\obj\Debug\net6.0\Store.Models.dll
+C:\Users\HP\Desktop\BookStore\Store.Models\obj\Debug\net6.0\refint\Store.Models.dll
+C:\Users\HP\Desktop\BookStore\Store.Models\obj\Debug\net6.0\Store.Models.pdb
+C:\Users\HP\Desktop\BookStore\Store.Models\obj\Debug\net6.0\ref\Store.Models.dll

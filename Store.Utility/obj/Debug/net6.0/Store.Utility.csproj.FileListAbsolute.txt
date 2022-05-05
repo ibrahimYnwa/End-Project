@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\BookStore\Store.Utility\bin\Debug\net6.0\Store.Utility.deps.json
+C:\Users\HP\Desktop\BookStore\Store.Utility\bin\Debug\net6.0\Store.Utility.dll
+C:\Users\HP\Desktop\BookStore\Store.Utility\bin\Debug\net6.0\Store.Utility.pdb
+C:\Users\HP\Desktop\BookStore\Store.Utility\obj\Debug\net6.0\Store.Utility.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\BookStore\Store.Utility\obj\Debug\net6.0\Store.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\BookStore\Store.Utility\obj\Debug\net6.0\Store.Utility.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\BookStore\Store.Utility\obj\Debug\net6.0\Store.Utility.AssemblyInfo.cs
+C:\Users\HP\Desktop\BookStore\Store.Utility\obj\Debug\net6.0\Store.Utility.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\BookStore\Store.Utility\obj\Debug\net6.0\Store.Utility.dll
+C:\Users\HP\Desktop\BookStore\Store.Utility\obj\Debug\net6.0\refint\Store.Utility.dll
+C:\Users\HP\Desktop\BookStore\Store.Utility\obj\Debug\net6.0\Store.Utility.pdb
+C:\Users\HP\Desktop\BookStore\Store.Utility\obj\Debug\net6.0\ref\Store.Utility.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\BookStore\Store.DataAccess\obj\Debug\net6.0\Store.DataAccess.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\BookStore\Store.DataAccess\obj\Debug\net6.0\Store.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\BookStore\Store.DataAccess\obj\Debug\net6.0\Store.DataAccess.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\BookStore\Store.DataAccess\obj\Debug\net6.0\Store.DataAccess.AssemblyInfo.cs
+C:\Users\HP\Desktop\BookStore\Store.DataAccess\obj\Debug\net6.0\Store.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\BookStore\Store.DataAccess\bin\Debug\net6.0\Store.DataAccess.deps.json
+C:\Users\HP\Desktop\BookStore\Store.DataAccess\bin\Debug\net6.0\Store.DataAccess.dll
+C:\Users\HP\Desktop\BookStore\Store.DataAccess\bin\Debug\net6.0\Store.DataAccess.pdb
+C:\Users\HP\Desktop\BookStore\Store.DataAccess\bin\Debug\net6.0\Store.Models.dll
+C:\Users\HP\Desktop\BookStore\Store.DataAccess\bin\Debug\net6.0\Store.Models.pdb
+C:\Users\HP\Desktop\BookStore\Store.DataAccess\obj\Debug\net6.0\Store.DataAccess.csproj.CopyComplete
+C:\Users\HP\Desktop\BookStore\Store.DataAccess\obj\Debug\net6.0\Store.DataAccess.dll
+C:\Users\HP\Desktop\BookStore\Store.DataAccess\obj\Debug\net6.0\refint\Store.DataAccess.dll
+C:\Users\HP\Desktop\BookStore\Store.DataAccess\obj\Debug\net6.0\Store.DataAccess.pdb
+C:\Users\HP\Desktop\BookStore\Store.DataAccess\obj\Debug\net6.0\ref\Store.DataAccess.dll
